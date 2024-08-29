@@ -6,7 +6,7 @@ public class Classe3 {
 
 //		ctrol + shift + O da import em tudo
 		
-		int x = 1, y = 2, z = 3;
+		int x = 1, y = 2;
 
 		Math.sqrt(x);
 //		raiz quadrada

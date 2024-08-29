@@ -18,6 +18,7 @@ public class Classe4 {
 		res = x + y;
 		
 		System.out.println("o resultado da soma é: " + res);
+		sc.close();
 	}
 
 }
