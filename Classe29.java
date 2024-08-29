@@ -21,7 +21,7 @@ public class Classe29 {
 				System.out.println("divisao impossivel");
 			} else {
 				Double res = num1 / num2;
-				System.out.printf("resultado = %.2f%n", res);
+				System.out.printf("resultado = %.1f%n", res);
 			}
 		}
 
