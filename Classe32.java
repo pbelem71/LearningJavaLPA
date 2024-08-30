@@ -9,7 +9,7 @@ public class Classe32 {
 		System.out.println("Informe um numero inteiro e positivo: ");
 		int n = sc.nextInt();
 
-		for (boolean i = true; true;) {
+		for (boolean i = true; i;) {
 			if (n < 0) {
 				System.out.println("Numero fora do intervalo solicitado, informe novamente: ");
 				n = sc.nextInt();
@@ -21,6 +21,6 @@ public class Classe32 {
 			}
 		}
 
-//		sc.close();
+		sc.close();
 	}
 }
