@@ -1,4 +1,4 @@
-package pacote;
+package aplications;
 
 public class Classe3 {
 

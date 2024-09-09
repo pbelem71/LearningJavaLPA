@@ -1,4 +1,4 @@
-package pacote;
+package aplications;
 
 import java.util.Locale;
 
